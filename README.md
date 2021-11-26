@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Preetam_kr24
+- 👋 Hi, I’m @Preetam_kr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on projects
